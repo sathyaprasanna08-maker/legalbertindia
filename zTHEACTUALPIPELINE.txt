@@ -1,0 +1,359 @@
+
+
+
+Use class weighting in your loss
+→ This will help underrepresented labels like I-MONEY and I-IPC.
+(I can show you the exact WeightedNERTrainer code if you want.)
+
+Increase number of epochs slightly (e.g., 6–8)
+→ Since your dataset is smaller, more passes are okay and won’t overfit easily.
+
+Use early stopping
+→ Prevents wasting time if validation F1 plateaus.
+
+Set fp16=True (mixed precision)
+→ Speeds up training a lot if you’re using GPU.
+
+
+
+
+
+
+
+OCR → LanguageDetector → Normalizer → Tokenizer → LegalBERModel → ClauseClassifier → 
+
+JurisdictionMapper → PrecedentEngine → RiskEvaluator
+
+
+✅ FINAL EXECUTION ORDER (TOP-DOWN)
+✅ 1. Foundational Utilities
+
+These must load FIRST because they clean and normalize text.
+
+✅ 1️⃣ LanguageDetector
+
+Detects language
+
+Helps normalizer & tokenizer
+
+✅ 2️⃣ LegalTextNormalizer
+
+Fix OCR errors
+
+Expand abbreviations
+
+Remove noise
+
+✅ 3️⃣ LegalTokenizer
+
+Tokenizes text into legal-aware tokens
+
+Produces spans, tokens, offsets
+
+Required for NER + clause classifier
+
+✅ These 3 always run first before any NLP model.
+
+✅ 2. Core AI Model Layer
+
+These handle entity extraction, structure extraction, and classification.
+
+✅ 4️⃣ NER Model (Fine-tuned Legal-BERT)
+ner_model = LegalBERTNER(finetuned_path)
+
+
+Uses the model trained in ner_finetuned.py
+
+Extracts ACT, SECTION, COURT, PARTY, DATE, etc.
+
+Output used by:
+
+Precedent Engine
+
+Clause classifier
+
+Risk engine
+
+✅ 5️⃣ Clause Analysis Module
+
+LegalClauseClassifier
+
+EnhancedLegalClauseClassifier
+Used when the document is a contract, affidavit, agreement, etc.
+
+✅ 6️⃣ Jurisdiction Engine
+
+JurisdictionMapper
+Maps:
+
+State → High Court
+
+Law type → tribunal
+
+Topic → constitutional vs. statutory courts
+
+✅ 7️⃣ Risk Assessment Engine
+
+LegalOutcome (DB model)
+
+MLRiskAssessment
+Predicts:
+
+Risk of violation
+
+Risk of breach
+
+Penalty range
+
+Severity index
+
+✅ These depend on text cleanup + NER.
+
+✅ 3. Precedent Retrieval Layer
+
+The most complex block.
+
+✅ 8️⃣ LegalPrecedentDatabase
+
+Loads:
+
+Landmark cases
+
+Your scraped cases
+
+Vector embeddings
+
+Metadata
+
+✅ 9️⃣ PrecedentEngine (your upgraded one)
+
+Uses:
+
+SentenceTransformer embeddings
+
+Semantic similarity search
+
+Keyword search
+
+Ranking model
+
+Legal reasoning
+
+Your upgraded version also includes:
+✅ Indian Kanoon scraping
+✅ OpenAI/GPT-style reasoning
+✅ Explanation generator
+
+✅ NER output feeds into this engine.
+
+✅ 4. Integrators / Multi-Module Engines
+
+These are the “glue layers” that merge everything.
+
+✅ 🔟 EnhancedLegalNER
+
+Combines:
+
+NER results
+
+Pattern-based extraction
+
+Normalization
+
+Terminology correction (if kept)
+
+✅ 11️⃣ PrecedentIntegrator
+
+Merges:
+
+NER
+
+PrecedentEngine
+
+Jurisdiction mapping
+
+Clause classification
+
+Produces:
+✅ Case citations
+✅ Applicable precedents
+✅ Risk assessment
+✅ Court routes
+✅ Legal advice
+
+✅ 5. Final Pipeline / Application Layer
+
+This is what your frontend or API calls.
+
+✅ 12️⃣ LegalAIEngine / LegalPipeline
+
+Order inside the pipeline:
+
+1️⃣ Normalize text
+2️⃣ Tokenize
+3️⃣ Run NER
+4️⃣ Map jurisdictions
+5️⃣ Classify clauses (if contract)
+6️⃣ Run precedent engine
+7️⃣ Merge + Rank + Explain
+8️⃣ Generate structured legal report
+
+Output includes:
+
+✅ Extracted entities
+✅ Relevant statutes
+✅ Relevant precedents
+✅ Risk analysis
+✅ Suggested arguments
+✅ Lawyer-style reasoning
+✅ Case law explanations
+
+✅ SUMMARY — FINAL RUN ORDER
+✅ STAGE 1: PREPROCESSING
+
+1️⃣ LanguageDetector
+2️⃣ LegalTextNormalizer
+3️⃣ LegalTokenizer
+
+✅ STAGE 2: NLP MODELS
+
+4️⃣ LegalBERTNER (fine-tuned)
+5️⃣ LegalClauseClassifier
+6️⃣ JurisdictionMapper
+7️⃣ MLRiskAssessment
+
+✅ STAGE 3: PRECEDENTS
+
+8️⃣ LegalPrecedentDatabase
+9️⃣ PrecedentEngine
+
+✅ STAGE 4: COMBINED ANALYSIS
+
+🔟 EnhancedLegalNER
+1️⃣1️⃣ PrecedentIntegrator
+
+✅ STAGE 5: FINAL APP
+
+1️⃣2️⃣ LegalAIEngine (full pipeline)
+
+# PROMPT 1-------------------------------------------------------------------------
+
+You are an OCR corruption generator for legal contract clauses.
+
+Take the following clause:
+[CLAUSE]
+
+Create 5 corrupted versions with realistic OCR noise:
+- random character substitutions (e → c, l → I, m → rn)
+- missing characters
+- spacing drift
+- line breaks inserted incorrectly
+- merged words
+- misread punctuation (.,;: become each other)
+
+Output only the corrupted clauses in JSON list form.
+
+# PROMPT 2 -------------------------------------------------------------------------
+
+Rewrite this legal clause 5 times with inconsistent punctuation:
+- missing commas
+- duplicated commas or periods
+- hyphens instead of en-dashes
+- misplaced semicolons
+- inconsistent capitalization
+
+Clause:
+[CLAUSE]
+
+Return only the rewritten clauses in a list.
+
+# PROMPT 3 -------------------------------------------------------------------------
+
+Rewrite this contract clause with exactly 3–5 natural typos:
+- letter swaps
+- missing letters
+- phonetic confusion
+- doubled letters
+- realistic human mistakes
+
+Do NOT change the meaning.
+
+Clause:
+[CLAUSE]
+
+# PROMPT 4-----------------------------------------------------------------------------
+The following clause contains entities like dates, amounts, section numbers, organization names, and parties.
+
+Randomly remove 1–3 entity spans while keeping the clause readable.
+
+Clause:
+[CLAUSE]
+
+Generate 3 variants with different entities removed.
+
+#PROMPT 5 ---------------------------------------------------------------------------------
+Rewrite the following clause using archaic contract style (without changing meaning):
+- hereunto
+- hereinafter
+- witnesseth
+- aforesaid
+- forthwith
+- thereby
+
+Clause:
+[CLAUSE]
+
+Give 3 variants.
+
+# PROMPT 6-------------------------------------------------------------------------------
+Replace the jurisdiction references in this clause with plausible Indian jurisdiction variations:
+- Bombay / Mumbai
+- Madras / Chennai
+- Calcutta / Kolkata
+- Bangalore / Bengaluru
+- Delhi NCR / NCT Delhi
+
+Clause:
+[CLAUSE]
+
+Produce 5 variants, each with different jurisdiction mapping.
+
+# PROMPT 7-******************************************************************************************
+Generate 5 clauses that superficially resemble confidentiality clauses
+but are NOT actually confidentiality clauses.
+
+Rules:
+- Must include "disclose", "share", "information", or "data"
+- But clause meaning must relate to operational, HR, IT, or security policy
+- Should NOT impose a legal confidentiality obligation
+- Should NOT be legally enforceable confidentiality terms
+
+Return only the clauses.
+
+# PROMPT 8------------------------------------------------------------------------------------
+Generate 5 contract clauses that contain overlapping patterns from:
+- payment terms
+- termination
+- liability
+- confidentiality
+- dispute resolution
+
+Rules:
+- Clauses must contain language from 2–3 clause categories
+- The core meaning must belong to ONLY ONE correct clause class
+- Ambiguity must be realistic
+
+Return the clauses PLUS the correct single label in JSON:
+{
+ "clause": "...",
+ "true_label": "termination_clause"
+}
+
+
+
+
+| Issue                                           | Explanation                                                                       | Fix (optional, next stage)                                                                                  |
+| ----------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `LegalEntity=False` for placeholders            | Because `_is_legal_entity()` runs *after* placeholder protection                  | In a later stage (post-restoration), rerun `_extract_entities()` or classifier after restoring placeholders |
+| Sentence boundary at abbreviations like “a. m.” | spaCy treats them as sentence breaks                                              | Add rule-based merging later if needed                                                                      |
+| Placeholder restoration not shown in output     | That’s fine — we usually restore in the **post-tokenization** normalization stage | Just remember to call `_restore()` later                                                                    |

@@ -1,0 +1,472 @@
+{"clause": "The Client shall pay within 15 days of receiving the invoice.", "clause_type": "payment_terms", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Employee must pay 25% of salary as penalty for early resignation.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Either party may terminate the agreement with 30 days’ notice.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "The company shall not be liable for indirect or consequential damages.", "clause_type": "liability_clause", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "All disputes shall be resolved by arbitration under Indian law.", "clause_type": "dispute_resolution", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "The Service Provider must notify any data breach within 72 hours.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "The Employee shall not engage in competing business post-termination.", "clause_type": "non_compete", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Payment delayed beyond 30 days attracts 12% annual interest.", "clause_type": "payment_terms", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "This contract is governed by the laws of India.", "clause_type": "governing_law", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Force majeure events include war, natural disasters, or pandemics.", "clause_type": "force_majeure", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "The company may terminate the agreement immediately for misconduct.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Parties agree to attempt mediation before arbitration.", "clause_type": "dispute_resolution", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "The consultant shall deliver project milestones as per Annexure A.", "clause_type": "deliverables", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Sensitive data must be encrypted in transit and at rest.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "The Employee shall not solicit the Company’s clients for 24 months.", "clause_type": "non_solicitation", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "The Vendor shall deliver goods within 21 days of order confirmation.", "clause_type": "payment_terms", "jurisdiction": "Mumbai", "outcome": "enforced"}
+{"clause": "Worker must compensate 30% of monthly wages for premature exit.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Any party can end this contract by giving 45 days written notice.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "enforced"}
+{"clause": "The organization will not bear responsibility for incidental damages.", "clause_type": "liability_clause", "jurisdiction": "Pune", "outcome": "enforced"}
+{"clause": "Conflicts shall be settled through arbitration as per Delhi Arbitration Act.", "clause_type": "dispute_resolution", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Data breach notification must be provided within 48 hours of discovery.", "clause_type": "data_protection", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Staff member cannot work for rival firms for 18 months after leaving.", "clause_type": "non_compete", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Interest at 15% per year applies to payments overdue by 45 days.", "clause_type": "payment_terms", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Indian legal framework shall govern this contractual agreement.", "clause_type": "governing_law", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Acts of God include earthquakes, floods, and epidemic outbreaks.", "clause_type": "force_majeure", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Immediate termination is permitted in cases of fraud or theft.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "enforced"}
+{"clause": "Both sides must try conciliation prior to initiating arbitration.", "clause_type": "dispute_resolution", "jurisdiction": "Mumbai", "outcome": "enforced"}
+{"clause": "Contractor must complete deliverables according to Schedule B.", "clause_type": "deliverables", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Confidential information requires encryption during storage and transmission.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Former employee banned from contacting company customers for 36 months.", "clause_type": "non_solicitation", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Payment must be processed within 10 business days after invoice date.", "clause_type": "payment_terms", "jurisdiction": "Chennai", "outcome": "enforced"}
+{"clause": "Staff shall forfeit 20% of annual bonus if leaving before 12 months.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Either side may cancel with 60 days advance written notification.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "enforced"}
+{"clause": "Maximum liability is capped at the contract value for direct damages only.", "clause_type": "liability_clause", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Disagreements will be resolved via Mumbai High Court jurisdiction.", "clause_type": "dispute_resolution", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Security incidents must be reported to authorities within 24 hours.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Employee restricted from joining competitor organizations for 24 months.", "clause_type": "non_compete", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Late payment after 20 days incurs penalty of 1.5% monthly interest.", "clause_type": "payment_terms", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Laws of Republic of India apply to interpretation of this agreement.", "clause_type": "governing_law", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Unforeseeable circumstances include riots, strikes, and government orders.", "clause_type": "force_majeure", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Company reserves right to terminate for poor performance after warning.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Parties shall engage in good faith negotiation before legal proceedings.", "clause_type": "dispute_resolution", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Freelancer must submit all work products as specified in Appendix C.", "clause_type": "deliverables", "jurisdiction": "Tamil Nadu", "outcome": "enforced"}
+{"clause": "Personal data processing must comply with IT Act 2000 requirements.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Ex-employee prohibited from recruiting former colleagues for 30 months.", "clause_type": "non_solicitation", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Supplier must issue invoice and receive payment within 7 working days.", "clause_type": "payment_terms", "jurisdiction": "Gujarat", "outcome": "enforced"}
+{"clause": "Consultant must pay liquidated damages of Rs 50,000 per day delay.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Contract may be dissolved by mutual consent with 15 days notice.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "enforced"}
+{"clause": "Liability for property damage is limited to actual replacement cost.", "clause_type": "liability_clause", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "All legal disputes subject to exclusive jurisdiction of Delhi courts.", "clause_type": "dispute_resolution", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Privacy breach must be disclosed to affected parties within 96 hours.", "clause_type": "data_protection", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Worker cannot establish similar business within 50km radius for 2 years.", "clause_type": "non_compete", "jurisdiction": "Uttar Pradesh", "outcome": "rejected"}
+{"clause": "Outstanding dues beyond 60 days attract compound interest at 18% annually.", "clause_type": "payment_terms", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Jurisdiction and interpretation governed by Indian Contract Act 1872.", "clause_type": "governing_law", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Force majeure covers acts beyond reasonable control including lockouts.", "clause_type": "force_majeure", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Termination without cause requires 90 days notice and severance pay.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Parties agree to participate in mandatory settlement conference before trial.", "clause_type": "dispute_resolution", "jurisdiction": "Tamil Nadu", "outcome": "enforced"}
+{"clause": "Developer shall deliver source code and documentation per Statement of Work.", "clause_type": "deliverables", "jurisdiction": "Bangalore", "outcome": "enforced"}
+{"clause": "All customer data must be anonymized before use in analytics.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Representative cannot approach company vendors for 12 months post-exit.", "clause_type": "non_solicitation", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Buyer shall clear dues within 30 calendar days from delivery acceptance.", "clause_type": "payment_terms", "jurisdiction": "Kolkata", "outcome": "enforced"}
+{"clause": "Associate must reimburse training costs if resigning within 6 months.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Either party entitled to terminate upon 120 days written notice.", "clause_type": "termination_clause", "jurisdiction": "Madhya Pradesh", "outcome": "enforced"}
+{"clause": "No liability accepted for loss of profits or business interruption.", "clause_type": "liability_clause", "jurisdiction": "Haryana", "outcome": "enforced"}
+{"clause": "Disputes resolved through Indian Council of Arbitration procedures.", "clause_type": "dispute_resolution", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "System administrator must report unauthorized access within 12 hours.", "clause_type": "data_protection", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Professional cannot serve competing clients within same industry for 3 years.", "clause_type": "non_compete", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Delayed payment beyond 40 days subject to late fee of 2% per month.", "clause_type": "payment_terms", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "This deed shall be construed according to laws prevailing in India.", "clause_type": "governing_law", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Events outside control include power failures, internet outages, cyber attacks.", "clause_type": "force_majeure", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Summary dismissal allowed for serious misconduct or breach of trust.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "enforced"}
+{"clause": "Neutral third-party mediation mandatory before escalating to arbitration.", "clause_type": "dispute_resolution", "jurisdiction": "Chennai", "outcome": "enforced"}
+{"clause": "Agency must provide monthly progress reports as per Terms of Reference.", "clause_type": "deliverables", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Biometric data collection requires explicit written user consent.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Departed staff cannot hire away team members for 20 months.", "clause_type": "non_solicitation", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Purchaser obligated to settle invoice within 14 days of goods receipt.", "clause_type": "payment_terms", "jurisdiction": "Pune", "outcome": "enforced"}
+{"clause": "Trainee must serve organization for 2 years or refund Rs 200,000.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Cancellation permitted with 75 days prior written intimation.", "clause_type": "termination_clause", "jurisdiction": "Telangana", "outcome": "enforced"}
+{"clause": "Total compensation for breach shall not exceed three months fees.", "clause_type": "liability_clause", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Bangalore courts have exclusive jurisdiction for dispute adjudication.", "clause_type": "dispute_resolution", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Company must inform regulators of data leaks within statutory timeframe.", "clause_type": "data_protection", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Manager restricted from working in same domain for 15 months post-separation.", "clause_type": "non_compete", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Payments overdue by 25 days attract penal interest of 10% per annum.", "clause_type": "payment_terms", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Provisions interpreted in accordance with substantive law of India.", "clause_type": "governing_law", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Extraordinary events include terrorism, civil unrest, and medical emergencies.", "clause_type": "force_majeure", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Instant termination justified in case of criminal conviction or harassment.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Parties must exhaust internal grievance mechanism before external remedies.", "clause_type": "dispute_resolution", "jurisdiction": "West Bengal", "outcome": "enforced"}
+{"clause": "Vendor shall deliver beta version for testing as per project timeline.", "clause_type": "deliverables", "jurisdiction": "Hyderabad", "outcome": "enforced"}
+{"clause": "Financial records must be retained securely for minimum 7 years.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Sales representative barred from soliciting accounts for 40 months.", "clause_type": "non_solicitation", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Client must remit payment within 5 business days of project completion.", "clause_type": "payment_terms", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Employee forfeits stock options if terminating employment before vesting.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Agreement terminable by giving 100 days advance notice in writing.", "clause_type": "termination_clause", "jurisdiction": "Haryana", "outcome": "enforced"}
+{"clause": "Firm not responsible for third-party service failures or delays.", "clause_type": "liability_clause", "jurisdiction": "Tamil Nadu", "outcome": "enforced"}
+{"clause": "Arbitration conducted under rules of Mumbai Centre for International Arbitration.", "clause_type": "dispute_resolution", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Incident response plan activation required within 6 hours of breach detection.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Technician prohibited from servicing competitor clients for 10 months.", "clause_type": "non_compete", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Overdue payments past 35 days subject to escalating penalties.", "clause_type": "payment_terms", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Legal validity determined by Indian judiciary and constitutional provisions.", "clause_type": "governing_law", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Inability to perform includes government restrictions, embargoes, and sanctions.", "clause_type": "force_majeure", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Dismissal with cause does not require notice period or compensation.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Conflicts addressed through joint executive committee before litigation.", "clause_type": "dispute_resolution", "jurisdiction": "Gujarat", "outcome": "enforced"}
+{"clause": "Contractor provides quality assurance certification upon final delivery.", "clause_type": "deliverables", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Cross-border data transfers require data protection impact assessment.", "clause_type": "data_protection", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Partner cannot divert business opportunities to personal ventures for 5 years.", "clause_type": "non_solicitation", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Contractor receives milestone payments within 20 days of approval.", "clause_type": "payment_terms", "jurisdiction": "Chennai", "outcome": "enforced"}
+{"clause": "Professional must pay damages of 10 lakhs for confidentiality breach.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "enforced"}
+{"clause": "Mutual termination possible with 30 days notice and settlement agreement.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Maximum aggregate liability across all claims limited to contract value.", "clause_type": "liability_clause", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Chennai High Court exercises jurisdiction over contractual disputes.", "clause_type": "dispute_resolution", "jurisdiction": "Tamil Nadu", "outcome": "enforced"}
+{"clause": "Organization implements data minimization and purpose limitation principles.", "clause_type": "data_protection", "jurisdiction": "Karnataka", "outcome": "enforced"}
+{"clause": "Executive cannot join direct competitor for 36 months after resignation.", "clause_type": "non_compete", "jurisdiction": "Maharashtra", "outcome": "enforced"}
+{"clause": "Interest charges of 14% annually apply to unpaid balances after 50 days.", "clause_type": "payment_terms", "jurisdiction": "Delhi", "outcome": "enforced"}
+{"clause": "Employee liable for unlimited damages for any breach of confidentiality.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Company may terminate without notice or cause at any time.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Contractor indemnifies client against all claims including consequential losses.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Worker must pay 50% of annual salary if leaving before 3 years.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Either party terminates immediately without reason or compensation.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Service provider bears all liability for third-party intellectual property claims.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Liquidated damages of Rs 5 lakhs per hour of service downtime.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Employment terminable at will with zero notice period required.", "clause_type": "termination_clause", "jurisdiction": "Haryana", "outcome": "rejected"}
+{"clause": "Vendor indemnifies buyer for all losses without any monetary cap.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Consultant pays 100% project value as penalty for missing any deadline.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Termination effective immediately upon client's sole discretion.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Developer indemnifies against all patent infringement claims globally.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Employee forfeits all earned commissions if terminated for cause.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Contract may be cancelled by company anytime without penalty.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Contractor responsible for all client losses due to service failure.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Worker pays Rs 10 lakhs penalty for competing within 5 years.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Employer may dismiss employee without stating reasons or notice.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Agency indemnifies principal for regulatory fines and legal costs.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Professional liable for 200% of fees for any contract breach.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Agreement terminable by buyer without refund of advance payment.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Supplier indemnifies against product liability claims without limit.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Trainee must repay 5x training cost if leaving within 4 years.", "clause_type": "penalty", "jurisdiction": "Pune", "outcome": "rejected"}
+{"clause": "Company reserves unilateral right to terminate with 24 hours notice.", "clause_type": "termination_clause", "jurisdiction": "Telangana", "outcome": "rejected"}
+{"clause": "Consultant indemnifies client for losses from third-party lawsuits.", "clause_type": "indemnity", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Delay penalty of Rs 1 crore per week applies automatically.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Employment ends immediately if performance falls below target.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Vendor bears unlimited liability for data breach consequences.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Employee pays double salary as damages for premature resignation.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Contract terminable without cause by providing 7 days notice.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies against all security vulnerabilities discovered later.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Contractor forfeits entire payment for failing quality standards.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Termination allowed if client finds better alternative provider.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Service provider indemnifies for business interruption losses.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Associate must pay Rs 15 lakhs for violating non-compete clause.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Either party terminates by email without formal notice period.", "clause_type": "termination_clause", "jurisdiction": "Haryana", "outcome": "rejected"}
+{"clause": "Contractor indemnifies owner against all construction defects perpetually.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Professional pays treble damages for any confidentiality violation.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Company terminates agreement if quarterly targets not met.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies buyer for environmental contamination claims.", "clause_type": "indemnity", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Employee reimburses all salary received if dismissed for misconduct.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Engagement terminable instantly for convenience of principal.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Vendor indemnifies client for losses exceeding insurance coverage.", "clause_type": "indemnity", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Consultant liable for Rs 50 lakhs per incident of negligence.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Contract voidable unilaterally by dominant party without reason.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Agency indemnifies against trademark infringement in perpetuity.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Worker forfeits pension benefits if terminated before 10 years.", "clause_type": "penalty", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Termination effective if client revenue projections not achieved.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Contractor indemnifies for personal injury claims of all site workers.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Developer pays 300% of contract value for IP rights violation.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Service agreement terminable if customer satisfaction drops below 95%.", "clause_type": "termination_clause", "jurisdiction": "Pune", "outcome": "rejected"}
+{"clause": "Provider indemnifies against all cybersecurity incidents and losses.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Employee pays gross annual income as penalty for joining competitor.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Partnership dissolves automatically if profit margins decline 10%.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Consultant indemnifies for indirect and speculative business losses.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Freelancer liable for unlimited consequential damages from errors.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Contract ends immediately if economic conditions become unfavorable.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "rejected"}
+{"clause": "Vendor indemnifies against losses from regulatory non-compliance.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Professional must pay punitive damages of Rs 25 lakhs for breach.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Employment terminable without severance if company restructures.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies buyer for all product recall expenses.", "clause_type": "indemnity", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Contractor forfeits retention money for any warranty claim.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Agreement terminable by SMS notification effective immediately.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Developer indemnifies for losses from software bugs discovered anytime.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Worker pays 40% of total compensation for early exit.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Company cancels contract if market conditions change adversely.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Service provider indemnifies against reputation damage claims.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "rejected"}
+{"clause": "Employee liable for Rs 20 lakhs for disclosing trade secrets.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Termination permitted if client finds more economical alternative.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Contractor indemnifies owner for neighbor complaints and disputes.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Professional pays quadruple fees for missing any milestone.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Contract voids automatically if performance metrics not sustained.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Agency indemnifies principal for employee misconduct claims.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Consultant liable for all client losses from implementation errors.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Employment ends if position becomes redundant without compensation.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Vendor indemnifies for losses from supply chain disruptions.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Developer forfeits all payments if deliverable rejected once.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Agreement terminable by client whim without stated grounds.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Supplier indemnifies against claims from product misuse by consumers.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Employee pays entire project budget as penalty for departure.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Termination effective if industry standards change unfavorably.", "clause_type": "termination_clause", "jurisdiction": "Pune", "outcome": "rejected"}
+{"clause": "Contractor indemnifies for accidents occurring on adjacent properties.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Professional liable for Rs 100 lakhs for project abandonment.", "clause_type": "penalty", "jurisdiction": "Hyderabad", "outcome": "rejected"}
+{"clause": "Contract ends if competitor offers better terms to client.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Service provider indemnifies for all force majeure event losses.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Consultant pays 500% of fees for any professional negligence.", "clause_type": "penalty", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Employment terminable if boss subjectively dissatisfied with work.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Vendor indemnifies buyer for opportunity costs and lost profits.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Freelancer forfeits all payments if client changes requirements.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Agreement ends automatically if third-party services unavailable.", "clause_type": "termination_clause", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Developer indemnifies for losses from user interface design flaws.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Worker must reimburse employer for recruitment and onboarding costs.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Company terminates if employee refuses relocation anywhere globally.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Supplier indemnifies for claims arising from raw material defects.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Contractor liable for Rs 2 crore for structural failure anytime.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Termination allowed if industry regulations become more stringent.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Agency indemnifies client for negative social media publicity.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "rejected"}
+{"clause": "Professional pays ten times retainer for conflicts of interest.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Contract voidable if company merges or changes ownership.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Consultant indemnifies for losses from subcontractor performance.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Employee forfeits accrued leave and bonuses upon termination.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Service agreement ends if client budget constraints emerge.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Vendor indemnifies against claims for software license violations.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Developer pays unlimited damages for performance optimization failures.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Employment terminable if employee health affects productivity.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Contractor indemnifies owner for utility connection delays.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Freelancer liable for client's lost business opportunities.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Agreement ends if economic downturn affects client's business.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Supplier indemnifies for environmental regulation violations.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Professional must pay Rs 50 lakhs for each delayed milestone.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Contract terminable if currency exchange rates fluctuate 5%.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Service provider indemnifies for client's internal policy violations.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Consultant pays entire contract value for scope creep disagreements.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Employment ends if company's credit rating downgraded.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Vendor indemnifies buyer for losses from delayed shipments.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Employee pays 60% of gross compensation for non-compete breach.", "clause_type": "penalty", "jurisdiction": "Hyderabad", "outcome": "rejected"}
+{"clause": "Termination effective if key personnel leave service provider.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies against usability complaints from end users.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Contractor forfeits warranty deposit for minor defects.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Agreement voids if political situation in country changes.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Agency indemnifies for losses from marketing campaign failures.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Professional liable for unlimited punitive damages for errors.", "clause_type": "penalty", "jurisdiction": "Haryana", "outcome": "rejected"}
+{"clause": "Contract ends if client's competitor acquires similar solution.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Supplier indemnifies for claims from packaging material defects.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Consultant pays Rs 30 lakhs per day of unauthorized absence.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Employment terminable if family circumstances affect availability.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Vendor indemnifies against claims for inadequate product documentation.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Developer forfeits all milestone payments for security vulnerabilities.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Agreement ends if client's board of directors changes composition.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Contractor indemnifies for noise complaints from community.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Employee must pay employer's legal costs if disputes arise.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Termination allowed if industry best practices evolve differently.", "clause_type": "termination_clause", "jurisdiction": "Pune", "outcome": "rejected"}
+{"clause": "Service provider indemnifies for losses from technology obsolescence.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Professional liable for client's investment losses from advice.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Contract voids if supplier's credit terms become unfavorable.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Consultant indemnifies against claims from implementation delays.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Freelancer pays 800% of fees for reputational damage caused.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Employment ends immediately if social media posts controversial.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "rejected"}
+{"clause": "Vendor indemnifies for losses from incorrect product specifications.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Developer must pay unlimited damages for scalability issues.", "clause_type": "penalty", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Agreement terminable if client's insurance premiums increase.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Supplier indemnifies against claims from delivery personnel conduct.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Contractor forfeits 75% payment for cosmetic imperfections.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Contract ends if global economic indicators decline significantly.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Agency indemnifies principal for losses from creative concept failures.", "clause_type": "indemnity", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Professional pays client's opportunity costs as penalty.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Termination effective if technology platform becomes obsolete.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Consultant indemnifies for losses from change management failures.", "clause_type": "indemnity", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Employee liable for Rs 40 lakhs for violating social media policy.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Service agreement voids if competitor launches superior product.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Vendor indemnifies for business losses from training inadequacy.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "rejected"}
+{"clause": "Developer pays 1000% of contract for data migration errors.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Employment terminable if personal values conflict with company culture.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Contractor indemnifies owner for aesthetic dissatisfaction claims.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "rejected"}
+{"clause": "Freelancer forfeits payment if client subjectively unhappy with style.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Agreement ends if vendor's competitors offer aggressive pricing.", "clause_type": "termination_clause", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Supplier indemnifies against claims from product color variations.", "clause_type": "indemnity", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Professional liable for unlimited damages for judgment errors.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Contract terminable if industry thought leadership changes.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Service provider indemnifies for losses from staff turnover.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Consultant pays Rs 75 lakhs for disagreements with stakeholders.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Employment ends if employee lifestyle choices affect brand image.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "rejected"}
+{"clause": "Vendor indemnifies buyer for losses from perceived value gaps.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Developer forfeits all payments if user adoption below expectations.", "clause_type": "penalty", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Agreement voids if customer sentiment scores decline 15%.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Contractor indemnifies for losses from weather-related delays.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Employee must pay employer for any negative glassdoor reviews.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Termination allowed if innovation pace slower than industry average.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "rejected"}
+{"clause": "Agency indemnifies against losses from influencer partnership failures.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Professional liable for client's strategic planning failures.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "rejected"}
+{"clause": "Contract ends if supplier's ESG ratings drop below threshold.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "rejected"}
+{"clause": "Consultant indemnifies for losses from organizational culture mismatch.", "clause_type": "indemnity", "jurisdiction": "West Bengal", "outcome": "rejected"}
+{"clause": "Freelancer pays double contract value for missing soft deadlines.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Employment terminable if personal brand overshadows company brand.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Vendor indemnifies for claims from customer expectation gaps.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "rejected"}
+{"clause": "Developer liable for Rs 150 lakhs for any downtime incidents.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "rejected"}
+{"clause": "Agreement terminable if media coverage becomes predominantly negative.", "clause_type": "termination_clause", "jurisdiction": "Pune", "outcome": "rejected"}
+{"clause": "Supplier indemnifies against losses from trend forecasting errors.", "clause_type": "indemnity", "jurisdiction": "Rajasthan", "outcome": "rejected"}
+{"clause": "Contractor forfeits entire retention for warranty claims exceeding Rs 10,000.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "rejected"}
+{"clause": "Contract voids if partnership synergies fail to materialize.", "clause_type": "termination_clause", "jurisdiction": "Bangalore", "outcome": "rejected"}
+{"clause": "Service provider indemnifies for intangible reputational harm.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "rejected"}
+{"clause": "Professional pays client's expert witness costs in any dispute.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "rejected"}
+{"clause": "Employee must provide 60 days notice or forfeit one month salary.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Either party may terminate with 90 days notice and mutual settlement.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Contractor indemnifies client for direct damages up to contract value.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Late delivery incurs penalty of 0.5% per week up to maximum 5%.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Termination requires 45 days notice except for material breach.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Service provider liable for proven negligence up to Rs 10 lakhs.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Worker pays proportionate training costs if leaving within 18 months.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Contract terminable with 30 days notice after probation period.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for product defects within warranty period only.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Consultant pays liquidated damages capped at 15% of project fees.", "clause_type": "penalty", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Employment terminable for documented performance issues after warnings.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies for code defects discovered within 12 months.", "clause_type": "indemnity", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Employee forfeits variable pay if leaving before annual closure.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Termination with 60 days notice or payment in lieu permitted.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Supplier liable for replacement costs of defective goods only.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Contractor pays delay penalty limited to 10% of milestone value.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Either party terminates with 120 days notice without cause.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Agency indemnifies for copyright issues in delivered content only.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Professional pays reasonable costs for rectifying documented errors.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Termination allowed after 6 months with 45 days written notice.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for breaches of stated product specifications.", "clause_type": "indemnity", "jurisdiction": "Telangana", "outcome": "partially_enforced"}
+{"clause": "Employee repays prorated relocation costs if leaving within 2 years.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Contract terminable for sustained non-performance after 90 days notice.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Consultant liable for direct losses proven to result from advice.", "clause_type": "indemnity", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Delay penalty of Rs 5,000 per day capped at Rs 2 lakhs total.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Termination with 30 days notice after completion of minimum term.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies for security vulnerabilities reported within warranty.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Worker forfeits earned bonus if terminated for cause after inquiry.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Either party may exit with 75 days notice and handover period.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for manufacturing defects within stated tolerance.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Contractor pays liquidated damages not exceeding 20% of contract value.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Termination permitted with 90 days notice after first year.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Service provider liable for proven breaches up to insurance coverage.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Employee pays back certification costs on pro-rata basis if leaving early.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Contract ends with 60 days notice unless project milestones pending.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for documented third-party IP infringement claims.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Professional pays rework costs for deliverables failing acceptance criteria.", "clause_type": "penalty", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Termination allowed with 45 days notice after probationary assessment.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Agency liable for errors in deliverables up to project fee amount.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Consultant forfeits remaining payments if project abandoned without cause.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Employment terminable with 30 days notice during first 6 months.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Contractor indemnifies for worksite injuries up to statutory minimum.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Developer pays penalty of 1% per week delay up to 12 weeks.", "clause_type": "penalty", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Either party terminates with 50 days notice and transition support.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Supplier liable for quality issues identified within acceptance period.", "clause_type": "indemnity", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Employee reimburses laptop cost if leaving within 12 months of issue.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Termination requires 40 days notice or salary in lieu thereof.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Service provider indemnifies for data loss up to one year of fees.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Contractor pays Rs 10,000 per day delay limited to retention amount.", "clause_type": "penalty", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Contract terminable with 90 days notice after lock-in period expires.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for safety compliance violations with proof.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Professional pays client's audit costs if deliverables fail standards.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Termination with 75 days notice permitted after initial commitment period.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Developer liable for integration failures up to development costs.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Worker forfeits retention bonus if giving less than 60 days notice.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Either party may exit with 55 days notice and knowledge transfer.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for regulatory non-compliance in supplied materials.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Consultant pays proportionate refund for undelivered milestones.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Termination allowed with 35 days notice after mutual performance review.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Agency indemnifies for plagiarism in creative work up to project value.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Employee pays differential salary if joining competitor within 6 months.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Contract ends with 65 days notice unless renewal negotiated.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Vendor liable for late delivery costs capped at shipment value.", "clause_type": "indemnity", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Contractor pays penalty equal to profit margin on delayed work.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Termination requires 80 days notice with proper documentation.", "clause_type": "termination_clause", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies for performance issues within SLA parameters.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Professional forfeits contingent fees if project objectives not met.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Either party terminates with 70 days notice after annual review.", "clause_type": "termination_clause", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for warranty claims within specified period only.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Employee repays sign-on bonus proportionally if leaving within 24 months.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Termination with 50 days notice permitted after probation completion.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Contractor liable for rework costs of defective construction elements.", "clause_type": "indemnity", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Consultant pays reasonable damages for breach of exclusivity clause.", "clause_type": "penalty", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Contract terminable with 85 days notice and final deliverables.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Service provider indemnifies for SLA breaches up to monthly fees.", "clause_type": "indemnity", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Developer forfeits performance bonus if quality benchmarks not achieved.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Termination allowed with 42 days notice after initial 3 months.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for labeling errors causing regulatory issues.", "clause_type": "indemnity", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Worker pays training recovery fee reducing 10% per month worked.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Either party exits with 95 days notice and transition plan.", "clause_type": "termination_clause", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Agency liable for campaign underperformance up to media spend.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Contractor pays penalty of 0.25% per day up to 8% maximum.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Termination with 48 days notice after satisfactory evaluation period.", "clause_type": "termination_clause", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for packaging defects causing product damage.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Employee forfeits stock options not vested at termination date.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Contract ends with 110 days notice including handover period.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Developer liable for bug fixes within 6 months post-deployment.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Professional pays penalty equal to unbilled time for incomplete work.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Termination requires 52 days notice with client approval.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Consultant indemnifies for methodology failures up to engagement fees.", "clause_type": "indemnity", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Freelancer forfeits 20% final payment if revisions exceed agreed limit.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Either party terminates with 38 days notice post-pilot phase.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for installation errors within warranty coverage.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Contractor pays liquidated damages limited to retention percentage.", "clause_type": "penalty", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Termination allowed with 68 days notice after minimum tenure.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Service provider liable for downtime exceeding agreed thresholds.", "clause_type": "indemnity", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Employee repays mobility allowance if leaving within first year.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Contract terminable with 72 days notice and asset return.", "clause_type": "termination_clause", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies for accessibility compliance failures proven.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Consultant forfeits expenses reimbursement if leaving before completion.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Termination with 58 days notice permitted after mid-term review.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for documentation errors causing operational issues.", "clause_type": "indemnity", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Worker pays Rs 50,000 if leaving without proper handover.", "clause_type": "penalty", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Either party exits with 82 days notice and final settlement.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Agency liable for creative assets failing brand guidelines review.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Contractor pays 0.75% penalty per week delay up to 9 weeks.", "clause_type": "penalty", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Termination requires 44 days notice with reason documentation.", "clause_type": "termination_clause", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for calibration errors in supplied equipment.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Professional pays cost of corrections for computational errors.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Contract ends with 105 days notice after initial contract period.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Developer liable for API failures during warranty period only.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Employee forfeits pending leave encashment if absconding.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Termination with 62 days notice allowed after performance improvement plan.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for shipping damage within insurance limits.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Consultant pays proportionate fee reduction for scope reduction.", "clause_type": "penalty", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Either party terminates with 88 days notice with mutual consent.", "clause_type": "termination_clause", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Contractor indemnifies for code violations discovered during inspection.", "clause_type": "indemnity", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Freelancer forfeits retainer if missing consecutive deadlines.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Termination allowed with 54 days notice after trial period success.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Service provider liable for data breaches up to cyber insurance coverage.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Developer pays penalty of Rs 15,000 per day up to 30 days.", "clause_type": "penalty", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Contract terminable with 78 days notice and deliverable handover.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for training material errors causing user issues.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Employee repays education assistance if leaving before bond period.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Termination with 46 days notice required post-confirmation.", "clause_type": "termination_clause", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Agency indemnifies for social media campaign compliance violations.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Contractor pays penalty capped at performance guarantee amount.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Either party exits with 92 days notice after annual assessment.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Supplier liable for compatibility issues within specification range.", "clause_type": "indemnity", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Professional forfeits success fee if benchmarks not achieved.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Termination requires 64 days notice with proper justification.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies for usability issues documented during UAT.", "clause_type": "indemnity", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Consultant pays rework costs for deliverables requiring major revisions.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Contract ends with 115 days notice including closure activities.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Service provider indemnifies for compliance lapses identified in audit.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Worker forfeits quarterly incentive if notice period not served.", "clause_type": "penalty", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Termination allowed with 56 days notice after initial engagement.", "clause_type": "termination_clause", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for counterfeit parts within supply chain.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Contractor pays delay damages of 0.3% per day up to 10%.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Either party terminates with 76 days notice and exit interview.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Developer liable for load testing failures within agreed parameters.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Employee reimburses health insurance premium if leaving mid-year.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Termination with 66 days notice permitted after capability assessment.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for contamination within acceptable limits.", "clause_type": "indemnity", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Professional pays audit adjustment costs if calculations incorrect.", "clause_type": "penalty", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Contract terminable with 98 days notice after probation extension.", "clause_type": "termination_clause", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Agency indemnifies for influencer contract breaches up to campaign budget.", "clause_type": "indemnity", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Consultant forfeits advance payment if project withdrawn by consultant.", "clause_type": "penalty", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Termination requires 74 days notice with stakeholder communication.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Vendor liable for version compatibility issues during upgrade window.", "clause_type": "indemnity", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Contractor pays liquidated damages reducing monthly after initial delay.", "clause_type": "penalty", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Either party exits with 84 days notice and knowledge documentation.", "clause_type": "termination_clause", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies for mobile responsiveness issues on listed devices.", "clause_type": "indemnity", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Freelancer forfeits milestone payment if quality gate not passed.", "clause_type": "penalty", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Termination with 51 days notice allowed after competency validation.", "clause_type": "termination_clause", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Service provider indemnifies for backup failures within RPO/RTO targets.", "clause_type": "indemnity", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Employee pays joining bonus refund reducing quarterly.", "clause_type": "penalty", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Contract ends with 108 days notice and client reference.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Supplier indemnifies for recall costs within manufacturing defect definition.", "clause_type": "indemnity", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Consultant pays proportionate damages for early contract exit.", "clause_type": "penalty", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Termination allowed with 86 days notice after skills assessment.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Contractor indemnifies for permits violations discovered during project.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Worker forfeits relocation reimbursement if leaving within 18 months.", "clause_type": "penalty", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Either party terminates with 94 days notice and recommendation letter.", "clause_type": "termination_clause", "jurisdiction": "Pune", "outcome": "partially_enforced"}
+{"clause": "Developer liable for browser compatibility within specified versions.", "clause_type": "indemnity", "jurisdiction": "Gujarat", "outcome": "partially_enforced"}
+{"clause": "Professional pays reasonable legal costs if contract disputes arise.", "clause_type": "penalty", "jurisdiction": "Bangalore", "outcome": "partially_enforced"}
+{"clause": "Termination requires 69 days notice with performance documentation.", "clause_type": "termination_clause", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Agency indemnifies for licensing violations in stock content used.", "clause_type": "indemnity", "jurisdiction": "Tamil Nadu", "outcome": "partially_enforced"}
+{"clause": "Contractor pays 0.4% penalty per day limited to bank guarantee value.", "clause_type": "penalty", "jurisdiction": "Chennai", "outcome": "partially_enforced"}
+{"clause": "Contract terminable with 102 days notice after satisfactory completion.", "clause_type": "termination_clause", "jurisdiction": "Mumbai", "outcome": "partially_enforced"}
+{"clause": "Vendor indemnifies for interoperability issues within integration scope.", "clause_type": "indemnity", "jurisdiction": "Delhi", "outcome": "partially_enforced"}
+{"clause": "Employee forfeits profit sharing if terminated during payout period.", "clause_type": "penalty", "jurisdiction": "Rajasthan", "outcome": "partially_enforced"}
+{"clause": "Termination with 59 days notice permitted after capability building.", "clause_type": "termination_clause", "jurisdiction": "Hyderabad", "outcome": "partially_enforced"}
+{"clause": "Service provider liable for migration errors within cutover window.", "clause_type": "indemnity", "jurisdiction": "Maharashtra", "outcome": "partially_enforced"}
+{"clause": "Consultant pays restocking fee if materials procured unused.", "clause_type": "penalty", "jurisdiction": "Karnataka", "outcome": "partially_enforced"}
+{"clause": "Either party exits with 96 days notice and amicable settlement.", "clause_type": "termination_clause", "jurisdiction": "West Bengal", "outcome": "partially_enforced"}
+{"clause": "Developer indemnifies for SEO performance within defined metrics.", "clause_type": "indemnity", "jurisdiction": "Haryana", "outcome": "partially_enforced"}
+{"clause": "Freelancer forfeits revision allowance if exceeding agreed iterations.", "clause_type": "penalty", "jurisdiction": "Pune", "outcome": "partially_enforced"}
